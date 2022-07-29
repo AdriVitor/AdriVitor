@@ -23,7 +23,7 @@
 </div>
 
 <br>
-<div align="start">
+<div align="end">
   <a href="https://www.linkedin.com/in/adriano-vitor-0b30b320b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
