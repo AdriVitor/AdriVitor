@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com Desenvolvimento Back-end
-- 📚 Atualmente estou estudando inglês e AWS
+- 📚 Atualmente estou estudando inglês, AWS e Signalr(C#)
 
 <div align="center">
   <a href="https://github.com/adrivitor">
