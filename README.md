@@ -1,8 +1,8 @@
 ## Olá, eu sou o Adriano Vitor
 
 
-- 🔭 Trabalho com Desenvolvimento Back-end
-- 📚 Atualmente estou estudando inglês, AWS e Signalr(C#)
+- 🔭 Trabalho com Desenvolvimento Back-end e Desenvolvimento Fullstack
+- 📚 Atualmente estou estudando Vue.js
 
 <div align="center">
   <a href="https://github.com/adrivitor">
