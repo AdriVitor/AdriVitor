@@ -1,8 +1,7 @@
 ## Olá, eu sou o Adriano Vitor
 
 
-- 🔭 Trabalho com Desenvolvimento Back-end e Desenvolvimento Fullstack
-- 📚 Atualmente estou estudando Vue.js
+- 🔭 Trabalho com Desenvolvimento Back-end
 
 <div align="center">
   <a href="https://github.com/adrivitor">
